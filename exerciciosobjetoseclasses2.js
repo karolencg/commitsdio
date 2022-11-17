@@ -43,3 +43,5 @@ console.log(jose.classificarImc());
 const renan = new Pessoa('renan', 63, 1.75);
 console.log(renan.classificarImc());
 
+
+
